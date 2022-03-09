@@ -6,7 +6,7 @@ namespace Pool_Side
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
